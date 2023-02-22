@@ -2,7 +2,7 @@
  *	this alway returns 0;
  * */
 
-#include <stdio.h>
+#include <main.h>
 
 int main(void)
 {
