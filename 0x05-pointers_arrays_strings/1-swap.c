@@ -1,13 +1,15 @@
 /*
  * File: 1-swap.c
  * Auth: Odame Emmanuel
+ *
  */
 
 #include "main.h"
 
 /**
- * swap_int(int *a, int *b) - swap integers
- * @n: The pointer to an int.
+ * swap_int - Swaps the values of two integers.
+ * @a: The first integer to be swapped.
+ * @b: The second integer to be swapped.
  */
 void swap_int(int *a, int *b)
 {
